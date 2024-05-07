@@ -21,6 +21,7 @@ const MakeCard = ({ make }) => {
       <img src={make.image_link} alt={make.name} />
       <h3>{make.name}</h3>
       <p>${make.price}</p>
+      <button>Show more</button>
     </div>
   );
 };
