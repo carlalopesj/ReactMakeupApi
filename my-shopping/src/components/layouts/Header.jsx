@@ -11,16 +11,10 @@ function Header() {
                 <p>Mykar</p>
             </div>
             <div className="nav-links">
-                <Link to="/blush">Blush</Link>
-                <Link>Bronzer</Link>
-                <Link>Eyebrow</Link>
-                <Link>Eyeliner</Link>
-                <Link>Eyeshadow</Link>
-                <Link>Foundation</Link>
-                <Link>Lip liner</Link>
-                <Link>Lipstick</Link>
-                <Link>Mascara</Link>
-                <Link>Nail polish</Link>
+                <Link to="/home">Home</Link>
+                <Link to="/products">Products</Link>
+                <Link to="/categories">Categories</Link>
+                <Link to="/brands">Brands</Link>
             </div>
         </div>
     )
