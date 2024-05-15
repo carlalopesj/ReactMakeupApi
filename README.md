@@ -1,3 +1,3 @@
 # react-makeup-api
 
-Treinando backend com o consumo de apis com javascript.
+Treinando backend para o consumo de apis com javascript.
